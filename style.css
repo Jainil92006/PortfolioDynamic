@@ -90,7 +90,7 @@ body {
 /* Hero section background image */
 .hero {
   height: 100vh;
-  background-image: url("./images/h.jpg"); /* go up one level from css/ */
+  background-image: url("../images/h.jpg"); /* go up one level from css/ */
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -150,7 +150,7 @@ footer .social-icons a {
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
-  background-image: url("./images/c.jpg");
+  background-image: url("../images/c.jpg");
 }
 
 @media screen and (max-width: 990px) {
@@ -189,4 +189,5 @@ footer .social-icons a {
   transform: scale(1.05);
   box-shadow: 0 6px 10px rgba(0,0,0,0.3);
 }
+
 
