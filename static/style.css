@@ -98,7 +98,7 @@ body {
 }
 
 .hero {
-  background-image: url("h.jpg");
+  background-image: url("../h.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;  
@@ -161,7 +161,7 @@ footer .social-icons a {
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
-  background-image: url("c.jpg");
+  background-image: url("../c.jpg");
 }
 
 @media screen and (max-width: 990px) {
